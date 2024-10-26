@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'dist',
   },
+  input: './src/main.jsx'
 });
